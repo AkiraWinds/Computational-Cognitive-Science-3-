@@ -1,0 +1,167 @@
+Participant	primary_language_family	TOI	AOI	Duration_of_interval	Start_of_interval	Last_key_press	Total_duration_of_fixations	Average_duration_of_fixations	Number_of_fixations	Time_to_first_fixation	Number_of_Visits	Number_of_saccades_in_AOI	Time_to_entry_saccade	Time_to_exit_saccade	Peak_velocity_of_entry_saccade	Peak_velocity_of_exit_saccade
+Participant2	alphabetic	Entire Recording	all 1 final	387097	0	Space	2193	244	9	150893	4	5	157793.0	151069.0	496,39	555,58
+Participant2	alphabetic	Entire Recording	all 2 final no pic	387097	0	Space	13395	203	66	167061	1	63	166997.0	182619.0	427,81	325,87
+Participant2	alphabetic	Entire Recording	all 2 final with pic	387097	0	Space	13825	200	69	159343	2	65	166997.0	159666.0	427,81	407,7
+Participant2	alphabetic	Entire Recording	all 3 final	387097	0	Space	66527	193	345	214394	6	314	224738.0	214581.0	312,97	588,58
+Participant2	alphabetic	Entire Recording	title 1 final	387097	0	Space	2667	222	12	146773	2	10	146721.0		533,97	
+Participant2	alphabetic	Entire Recording	title 2 final	387097	0	Space	15733	197	80	191688	4	73	191621.0	195089.0	506,89	546,07
+Participant2	alphabetic	Entire Recording	title 3 final	387097	0	Space	44796	196	229	317991	4	202	317943.0	322627.0	465,68	394,58
+Participant3	alphabetic	Entire Recording	all 1 final	378329	0	Space	3642	214	17	129493	2	14	129444.0	129804.0	426,42	498,57
+Participant3	alphabetic	Entire Recording	all 2 final no pic	378329	0	Space	12687	211	60	153327	2	53		153536.0		511,5
+Participant3	alphabetic	Entire Recording	all 2 final with pic	378329	0	Space	12898	211	61	153327	2	54		153803.0		424,19
+Participant3	alphabetic	Entire Recording	all 3 final	378329	0	Space	73906	230	321	261595	4	284	277328.0	262549.0	418,05	353,92
+Participant3	alphabetic	Entire Recording	title 1 final	378329	0	Space	2422	220	11	143760	3	7	148609.0	144103.0	470,2	522,1
+Participant3	alphabetic	Entire Recording	title 2 final	378329	0	Space	7201	200	36	178153	3	31	178100.0	178589.0	487,19	127,36
+Participant3	alphabetic	Entire Recording	title 3 final	378329	0	Space	44330	227	195	195044	2	173	209112.0		215,35	
+Participant1	logographic	Entire Recording	all+1	199398	0	Space	3553	222	16	80605	4	10	81642.0	81968.0	397,61	354,62
+Participant1	logographic	Entire Recording	all+2+pic	199398	0	Space	13106	222	59	123022	2	50	129676.0		558,73	
+Participant1	logographic	Entire Recording	all+2+word	199398	0	Space	12964	224	58	123022	2	49	129676.0	123481.0	558,73	286,96
+Participant1	logographic	Entire Recording	all+3	199398	0	Space	10655	201	53	176556	2	42		177003.0		312,32
+Participant1	logographic	Entire Recording	title+1	199398	0	Space	3610	164	22	68022	3	12	73441.0	74013.0	517,96	416,04
+Participant4	alphabetic	Entire Recording	all 1 final	322592	0	Space	1980	180	11	120083	2	7	122522.0		483,48	
+Participant4	alphabetic	Entire Recording	all 2 final no pic	322592	0	Space	19558	244	80	124999	3	73	128527.0	125142.0	507,14	470,06
+Participant4	alphabetic	Entire Recording	all 2 final with pic	322592	0	Space	20482	241	85	124999	3	77	128527.0	125321.0	507,14	428,57
+Participant4	alphabetic	Entire Recording	all 3 final	322592	0	Space	47560	186	256	229350	3	147	235949.0	229989.0	348,18	261,02
+Participant4	alphabetic	Entire Recording	title 1 final	322592	0	Space	2741	249	11	110716	2	8	116833.0	111548.0	475,72	364,06
+Participant4	alphabetic	Entire Recording	title 2 final	322592	0	Space	16723	246	68	153516	5	59	158202.0	153910.0	462,52	467,4
+Participant4	alphabetic	Entire Recording	title 3 final	322592	0	Space	25874	237	109	190244	4	96	190212.0	191733.0	263,54	180,88
+Participant5	alphabetic	Entire Recording	all 1 final	531646	0	Return	1716	143	12	172601	4	7	172562.0	172917.0	164,2	597,48
+Participant5	alphabetic	Entire Recording	all 2 final no pic	531646	0	Return	10501	191	55	191226	5	46	191196.0	193666.0	177,16	409,76
+Participant5	alphabetic	Entire Recording	all 2 final with pic	531646	0	Return	12582	188	67	184833	3	60	184763.0	185119.0	471,19	303,72
+Participant5	alphabetic	Entire Recording	all 3 final	531646	0	Return	122549	253	484	232887	16	445	235157.0	233055.0	372,24	108,64
+Participant5	alphabetic	Entire Recording	title 1 final	531646	0	Return	4698	174	27	156377	5	20	156658.0	156441.0	173,05	389,76
+Participant5	alphabetic	Entire Recording	title 2 final	531646	0	Return	9172	213	43	206411	4	38	213216.0	206837.0	325,3	534,99
+Participant5	alphabetic	Entire Recording	title 3 final	531646	0	Return	95303	266	358	398013	17	318	398516.0	399291.0	133,47	272,81
+Participant7	logographic	Entire Recording	all 1 final	362530	0	Space	8280	224	37	94930	7	30	96844.0	95118.0	370,46	403,36
+Participant7	logographic	Entire Recording	all 2 final no pic	362530	0	Space	17822	283	63	150030	5	42	171108.0	150607.0	383,26	488,3
+Participant7	logographic	Entire Recording	all 2 final with pic	362530	0	Space	18728	280	67	150030	5	44	171108.0	150607.0	383,26	488,3
+Participant7	logographic	Entire Recording	all 3 final	362530	0	Space	27322	192	142	262198	6	39	269099.0		266,25	
+Participant7	logographic	Entire Recording	title 1 final	362530	0	Space	3641	228	16	119247	3	12	121678.0	119643.0	488,94	438,32
+Participant7	logographic	Entire Recording	title 2 final	362530	0	Space	10418	289	36	127030	3	30	135955.0	127260.0	459,98	508,33
+Participant7	logographic	Entire Recording	title 3 final	362530	0	Space	48093	266	181	185735	4	142				
+Participant6	alphabetic	Entire Recording	all 1 final	299996	0	Space	2868	239	12	102172	2	10	110595.0	103397.0	394,53	135,11
+Participant6	alphabetic	Entire Recording	all 2 final no pic	299996	0	Space	19104	239	80	129221	2	76				
+Participant6	alphabetic	Entire Recording	all 2 final with pic	299996	0	Space	19574	236	83	122990	3	77		123442.0		459,83
+Participant6	alphabetic	Entire Recording	all 3 final	299996	0	Space	46757	242	193	173544	3	179	183484.0	174220.0	248,67	446,37
+Participant6	alphabetic	Entire Recording	title 1 final	299996	0	Space	2505	193	13	114213	2	9		114279.0		479,92
+Participant6	alphabetic	Entire Recording	title 2 final	299996	0	Space	12793	256	50	153906	2	45	158541.0	154739.0	422,33	451,56
+Participant6	alphabetic	Entire Recording	title 3 final	299996	0	Space	34239	250	137	242141	3	128	247597.0	248086.0	281,91	291,01
+Participant8	logographic	Entire Recording	all 1 final	770741	0	Space	2713	209	13	270398	3	9	270373.0	282444.0	79,64	426,9
+Participant8	logographic	Entire Recording	all 2 final no pic	770741	0	Space	31399	234	134	305206	7	108	305177.0	326293.0	97,94	427,86
+Participant8	logographic	Entire Recording	all 2 final with pic	770741	0	Space	32861	230	143	285241	8	114	288011.0	288225.0	255,56	285,53
+Participant8	logographic	Entire Recording	all 3 final	770741	0	Space	107323	238	451	590760	9	288	646504.0	646196.0	474,81	422,61
+Participant8	logographic	Entire Recording	title 1 final	770741	0	Space	7508	250	30	250389	5	21	250340.0	253391.0	167,26	312,21
+Participant8	logographic	Entire Recording	title 2 final	770741	0	Space	38692	234	165	352046	13	123	352016.0	354566.0	153,8	301,13
+Participant8	logographic	Entire Recording	title 3 final	770741	0	Space	95041	222	429	428393	11	283	441658.0	442475.0	173,83	263,08
+Participant11yuke		Entire Recording	all 1 final	398809	0	Space	2202	138	16	130511	2	9	133331.0		418,44	
+Participant11yuke		Entire Recording	all 2 final no pic	398809	0	Space	19842	193	103	141250	1	76				
+Participant11yuke		Entire Recording	all 2 final with pic	398809	0	Space	20176	192	105	136344	2	76		136509.0		342,47
+Participant11yuke		Entire Recording	all 3 final	398809	0	Space	56907	183	311	197378	7	212	200845.0	197960.0	525,76	430,84
+Participant11yuke		Entire Recording	title 1 final	398809	0	Space	2459	273	9	122294	3	4		122447.0		264,45
+Participant11yuke		Entire Recording	title 2 final	398809	0	Space	17442	208	84	168732	2	65	174303.0		468,61	
+Participant11yuke		Entire Recording	title 3 final	398809	0	Space	60389	197	306	304963	4	215	310203.0	305227.0	447,58	410,08
+Participant9	alphabetic	Entire Recording	all 1 final	635876	0	Space	7070	272	26	285425	3	23	285372.0	285987.0	364,27	505,76
+Participant9	alphabetic	Entire Recording	all 2 final no pic	635876	0	Space	23015	247	93	356472	2	91	356411.0	385505.0	483,25	409,05
+Participant9	alphabetic	Entire Recording	all 2 final with pic	635876	0	Space	23492	247	95	352017	3	92	356411.0	352215.0	483,25	499,24
+Participant9	alphabetic	Entire Recording	all 3 final	635876	0	Space	97641	272	359	385818	7	339	394146.0	385990.0	378,69	544,38
+Participant9	alphabetic	Entire Recording	title 1 final	635876	0	Space	2954	269	11	301900	2	7	306668.0	302122.0	498,73	461,25
+Participant9	alphabetic	Entire Recording	title 2 final	635876	0	Space	21046	217	97	310467	4	91	321249.0	310805.0	405,58	440,01
+Participant9	alphabetic	Entire Recording	title 3 final	635876	0	Space	72186	265	272	535569	7	247	535522.0	536735.0	413,48	382,42
+Participant10	alphabetic	Entire Recording	all 1 final	354986	0	Space	1543	171	9	200485	3	6	202848.0	200986.0	424,65	391,92
+Participant10	alphabetic	Entire Recording	all 2 final no pic	354986	0	Space	16998	215	79	223369	5	71	228361.0	227748.0	588,07	402,52
+Participant10	alphabetic	Entire Recording	all 2 final with pic	354986	0	Space	16998	215	79	223369	5	71	228361.0	227748.0	588,07	402,52
+Participant10	alphabetic	Entire Recording	all 3 final	354986	0	Space	45296	232	195	248903	5	178	255730.0	256089.0	321,98	278,91
+Participant10	alphabetic	Entire Recording	title 1 final	354986	0	Space	2834	218	13	191302	4	8	196520.0	191933.0	473,84	378,47
+Participant10	alphabetic	Entire Recording	title 2 final	354986	0	Space	10296	229	45	204602	4	40	210057.0	214070.0	481,02	386,89
+Participant10	alphabetic	Entire Recording	title 3 final	354986	0	Space	28640	247	116	312270	3	103	315649.0	312845.0	309,56	371,76
+Participant12new	logographic	Entire Recording	all 1 final	522030	0	5	4965	216	23	103854	6	9	115817.0	104682.0	611,92	102,55
+Participant12new	logographic	Entire Recording	all 2 final no pic	522030	0	5	18030	169	107	149049	5	36	153892.0	149189.0	594,49	520,65
+Participant12new	logographic	Entire Recording	all 2 final with pic	522030	0	5	18030	169	107	149049	5	36	153892.0	149189.0	594,49	520,65
+Participant12new	logographic	Entire Recording	all 3 final	522030	0	5	69719	173	403	192757	24	145	215443.0	418205.0	69,05	30,01
+Participant12new	logographic	Entire Recording	title 1 final	522030	0	5	1656	166	10	123515	3	3	129212.0	123719.0	626,87	120,35
+Participant12new	logographic	Entire Recording	title 2 final	522030	0	5	6371	182	35	129348	5	14	148544.0	132339.0	776,61	735,59
+Participant12new	logographic	Entire Recording	title 3 final	522030	0	5	30989	179	173	451052	5	73		512647.0		71,02
+Participant13	logographic	Entire Recording	all 1 final	423830	0	Space	5553	198	28	125179	4	21	125124.0	125369.0	434,38	488,66
+Participant13	logographic	Entire Recording	all 2 final no pic	423830	0	Space	28104	251	112	142853	7	101	145168.0	142998.0	531,49	401,26
+Participant13	logographic	Entire Recording	all 2 final with pic	423830	0	Space	28532	248	115	142853	6	105	145168.0	143154.0	531,49	506,97
+Participant13	logographic	Entire Recording	all 3 final	423830	0	Space	97536	296	329	234905	9	285	237678.0	235530.0	459,14	436,92
+Participant13	logographic	Entire Recording	title 1 final	423830	0	Space	185	93	2	124903	1	1		125124.0		434,38
+Participant13	logographic	Entire Recording	title 2 final	423830	0	Space	24497	310	79	191137	2	75	207586.0	191322.0	382,2	539,36
+Participant13	logographic	Entire Recording	title 3 final	423830	0	Space	38719	281	138	368349	8	117	369325.0	368665.0	414,22	462,64
+Participant14	alphabetic	Entire Recording	all 1 final	299081	0	Space	1459	162	9	109356	3	6	113460.0	109662.0	385,58	502,44
+Participant14	alphabetic	Entire Recording	all 2 final no pic	299081	0	Space	8511	185	46	136721	4	38	143068.0	137554.0	399,94	524,26
+Participant14	alphabetic	Entire Recording	all 2 final with pic	299081	0	Space	8896	185	48	136721	3	41	143068.0	137554.0	399,94	524,26
+Participant14	alphabetic	Entire Recording	all 3 final	299081	0	Space	35216	189	186	153956	7	158	165175.0	154504.0	103,67	391,78
+Participant14	alphabetic	Entire Recording	title 1 final	299081	0	Space	3052	170	18	96922	3	15	104763.0	97075.0	441,62	242,31
+Participant14	alphabetic	Entire Recording	title 2 final	299081	0	Space	11308	177	64	115756	2	60	122118.0	116027.0	493,27	467,76
+Participant14	alphabetic	Entire Recording	title 3 final	299081	0	Space	41791	193	216	232349	7	184	232300.0	233278.0	321,42	453,94
+Participant15	alphabetic	Entire Recording	all 1 final	236908	0	Space	1702	170	10	100368	2	1				
+Participant15	alphabetic	Entire Recording	all 2 final no pic	236908	0	Space	8612	210	41	121642	2	12				
+Participant15	alphabetic	Entire Recording	all 2 final with pic	236908	0	Space	8889	212	42	118684	3	12				
+Participant15	alphabetic	Entire Recording	all 3 final	236908	0	Space	30337	221	137	189268	2	65				
+Participant15	alphabetic	Entire Recording	title 1 final	236908	0	Space	1951	195	10	97325	1	1				
+Participant15	alphabetic	Entire Recording	title 2 final	236908	0	Space	4069	203	20	105049	3	8				
+Participant15	alphabetic	Entire Recording	title 3 final	236908	0	Space	30893	224	138	133718	6	55				
+Participant16	alphabetic	Entire Recording	all 1 final	254442	0	Space	1388	154	9	87573	2	5	87558.0		50,73	
+Participant16	alphabetic	Entire Recording	all 2 final no pic	254442	0	Space	15760	239	66	92004	3	59	91939.0	92186.0	448,65	356,9
+Participant16	alphabetic	Entire Recording	all 2 final with pic	254442	0	Space	16185	238	68	91209	3	61	91939.0	91369.0	448,65	435
+Participant16	alphabetic	Entire Recording	all 3 final	254442	0	Space	42220	206	205	191831	3	191	195554.0	244608.0	202	409,49
+Participant16	alphabetic	Entire Recording	title 1 final	254442	0	Space	2737	152	18	80180	3	14	87256.0	80353.0	224,06	426,11
+Participant16	alphabetic	Entire Recording	title 2 final	254442	0	Space	6524	261	25	117720	2	19	124218.0		419,53	
+Participant16	alphabetic	Entire Recording	title 3 final	254442	0	Space	44831	228	197	126847	5	180	132716.0	127796.0	372,76	311,71
+Participant17	logographic	Entire Recording	all 1 final	572573	0	Space	3763	209	18	243786	3	14	247296.0	244108.0	459,75	476,11
+Participant17	logographic	Entire Recording	all 2 final no pic	572573	0	Space	14487	216	67	259756	2	60	259682.0	260196.0	573,94	564,31
+Participant17	logographic	Entire Recording	all 2 final with pic	572573	0	Space	14487	216	67	259756	2	60	259682.0	260196.0	573,94	564,31
+Participant17	logographic	Entire Recording	all 3 final	572573	0	Space	93591	233	402	299035	9	365	302641.0	299903.0	399,54	349
+Participant17	logographic	Entire Recording	title 1 final	572573	0	Space	8943	229	39	220769	8	31	223358.0	220905.0	514,02	365,6
+Participant17	logographic	Entire Recording	title 2 final	572573	0	Space	6888	255	27	287338	1	24	287257.0		538,15	
+Participant17	logographic	Entire Recording	title 3 final	572573	0	Space	97011	227	428	439638	9	382	440504.0	440067.0	555,5	432,31
+Participant18	alphabetic	Entire Recording	all 1 final	210164	0	Space	3230	190	17	104133	3	13	106323.0	104449.0	400,23	358,11
+Participant18	alphabetic	Entire Recording	all 2 final no pic	210164	0	Space	2723	209	13	115895	1	10	115823.0		447,19	
+Participant18	alphabetic	Entire Recording	all 2 final with pic	210164	0	Space	3095	206	15	111100	2	11	115823.0	111520.0	447,19	388,49
+Participant18	alphabetic	Entire Recording	all 3 final	210164	0	Space	30754	228	135	167417	3	118	171433.0	167759.0	221,58	335,64
+Participant18	alphabetic	Entire Recording	title 1 final	210164	0	Space	3022	201	15	95700	2	12	100410.0	96128.0	416,54	420,73
+Participant18	alphabetic	Entire Recording	title 2 final	210164	0	Space	6454	208	31	119983	3	27	123526.0	120151.0	449,74	532,83
+Participant18	alphabetic	Entire Recording	title 3 final	210164	0	Space	20378	232	88	132033	5	78	139685.0	132902.0	315,07	370,25
+Participant19	alphabetic	Entire Recording	all 1 final	489596	0	Space	3168	244	13	256064	3	8	257084.0	256889.0	313,96	407,66
+Participant19	alphabetic	Entire Recording	all 2 final no pic	489596	0	Space	9823	196	50	291037	1	47				
+Participant19	alphabetic	Entire Recording	all 2 final with pic	489596	0	Space	10184	192	53	285317	2	48	285264.0	285627.0	441,22	405,69
+Participant19	alphabetic	Entire Recording	all 3 final	489596	0	Space	47518	216	220	413754	4	199	417504.0	413959.0	348,55	530,02
+Participant19	alphabetic	Entire Recording	title 1 final	489596	0	Space	10807	264	41	222335	4	35	225086.0	223014.0	337,36	446,16
+Participant19	alphabetic	Entire Recording	title 2 final	489596	0	Space	8194	191	43	267202	3	39	268352.0	267398.0	292,42	317,57
+Participant19	alphabetic	Entire Recording	title 3 final	489596	0	Space	78519	216	363	302953	5	335	303644.0	303159.0	423,05	416,48
+Participant20	alphabetic	Entire Recording	all 1 final	416591	0	Space	3472	193	18	167508	2	15	172909.0	168164.0	386,52	347,91
+Participant20	alphabetic	Entire Recording	all 2 final no pic	416591	0	Space	5038	174	29	195276	3	21	195195.0	199279.0	417,98	257,09
+Participant20	alphabetic	Entire Recording	all 2 final with pic	416591	0	Space	5631	166	34	186169	3	26	191813.0	186289.0	373,23	411,39
+Participant20	alphabetic	Entire Recording	all 3 final	416591	0	Space	5898	131	45	212453	4	11	219604.0	214173.0	280,22	332,16
+Participant20	alphabetic	Entire Recording	title 1 final	416591	0	Space	1609	179	9	183013	1	7	182929.0		445,34	
+Participant20	alphabetic	Entire Recording	title 2 final	416591	0	Space	3625	191	19	206162	2	14	206101.0	206517.0	381,61	394,94
+Participant20	alphabetic	Entire Recording	title 3 final	416591	0	Space	120	120	1	325023	1	0				
+Participant21	logographic	Entire Recording	all 1 final	2775691	0	Space	3120	184	17	271514	3	12	282743.0	281318.0	530,6	413,43
+Participant21	logographic	Entire Recording	all 2 final no pic	2775691	0	Space	32300	267	121	294947	5	103	302231.0	322022.0	564,62	361,02
+Participant21	logographic	Entire Recording	all 2 final with pic	2775691	0	Space	33334	262	127	294947	4	106	301462.0	301894.0	421,98	327,69
+Participant21	logographic	Entire Recording	all 3 final	2775691	0	Space	97661	227	430	366414	8	279	377634.0	377858.0	244,08	297,46
+Participant21	logographic	Entire Recording	title 1 final	2775691	0	Space	5148	224	23	286276	2	12	291626.0		471,46	
+Participant21	logographic	Entire Recording	title 2 final	2775691	0	Space	11615	242	48	344975	2	41				
+Participant21	logographic	Entire Recording	title 3 final	2775691	0	Space	77500	239	324	528968	6	237	548664.0	533057.0	120,35	282,12
+Participant22	alphabetic	Entire Recording	all 1 final	256678	0	Space	5452	182	30	126353	9	20	126296.0	126740.0	524,79	63,56
+Participant22	alphabetic	Entire Recording	all 2 final no pic	256678	0	Space	10052	197	51	143316	2	47		143442.0		494,91
+Participant22	alphabetic	Entire Recording	all 2 final with pic	256678	0	Space	10113	194	52	143316	2	48				
+Participant22	alphabetic	Entire Recording	all 3 final	256678	0	Space	12191	194	63	167750	4	59	174301.0	168235.0	212,24	390,19
+Participant22	alphabetic	Entire Recording	title 1 final	256678	0	Space	2387	199	12	139254	3	9	139200.0	139665.0	410,42	467,71
+Participant22	alphabetic	Entire Recording	title 2 final	256678	0	Space	5543	198	28	158833	2	25	161611.0	159117.0	527,38	408,49
+Participant22	alphabetic	Entire Recording	title 3 final	256678	0	Space	34417	201	171	190017	7	157	197025.0	190147.0	329,34	519,04
+Participant23	logographic	Entire Recording	all 1 final	686710	0	Space	7354	199	37	167195	4	33	175397.0	167606.0	407,74	544,39
+Participant23	logographic	Entire Recording	all 2 final no pic	686710	0	Space	32330	236	137	197788	6	123	197743.0	197963.0	368,54	536,62
+Participant23	logographic	Entire Recording	all 2 final with pic	686710	0	Space	35221	232	152	186046	6	137	188438.0	186443.0	280,49	423,94
+Participant23	logographic	Entire Recording	all 3 final	686710	0	Space	208705	248	843	278397	8	729	280476.0	278989.0	483,25	295,63
+Participant23	logographic	Entire Recording	title 1 final	686710	0	Space	7676	183	42	137778	8	31	139808.0	138362.0	356,31	481,65
+Participant23	logographic	Entire Recording	title 2 final	686710	0	Space	19752	244	81	241480	2	75		241957.0		472,38
+Participant23	logographic	Entire Recording	title 3 final	686710	0	Space	99042	239	415	550302	5	339	551399.0	551199.0	411,03	308,34
+Participant24 yaxuan	logographic	Entire Recording	all 1 final	407479	0	Space	5785	187	31	168445	8	12	177993.0	168947.0	449,7	198,58
+Participant24 yaxuan	logographic	Entire Recording	all 2 final no pic	407479	0	Space	28082	230	122	211585	6	86	237051.0	236638.0	319,67	193,83
+Participant24 yaxuan	logographic	Entire Recording	all 2 final with pic	407479	0	Space	29373	228	129	209065	3	92	209011.0	209685.0	344,61	412,12
+Participant24 yaxuan	logographic	Entire Recording	all 3 final	407479	0	Space	45916	228	201	336438	4	164	349031.0	348923.0	487,14	43,53
+Participant24 yaxuan	logographic	Entire Recording	title 1 final	407479	0	Space	2477	191	13	196179	4	7	198914.0	196399.0	480,53	616,12
+Participant24 yaxuan	logographic	Entire Recording	title 2 final	407479	0	Space	7624	206	37	261669	1	23				
+Participant24 yaxuan	logographic	Entire Recording	title 3 final	407479	0	Space	28724	224	128	272480	4	100	291853.0	273159.0	50,8	441,1

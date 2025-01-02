@@ -1,0 +1,162 @@
+Participant	primary_language_family	TOI	AOI	Duration_of_interval	Start_of_interval	Last_key_press	Total_duration_of_fixations	Average_duration_of_fixations	Number_of_fixations	Time_to_first_fixation	Number_of_Visits	Number_of_saccades_in_AOI	Time_to_entry_saccade	Time_to_exit_saccade	Peak_velocity_of_entry_saccade	Peak_velocity_of_exit_saccade
+Participant2	alphabetic	all-1	all 1 final	8450	150893	5	2193	244	9	0	4	5	6900.0	176.0	496,39	555,58
+Participant2	alphabetic	all-2	all 2 final no pic	24950	159343	3	13395	203	66	7718	1	63	7655.0	23277.0	427,81	325,87
+Participant2	alphabetic	all-2	all 2 final with pic	24950	159343	3	13825	200	69	0	2	65	7655.0	323.0	427,81	407,7
+Participant2	alphabetic	all-3	all 3 final	96901	214394	3	66527	193	345	0	6	314	10345.0	187.0	312,97	588,58
+Participant2	alphabetic	title-1	title 1 final	10183	140709	6	2667	222	12	6064	2	10	6012.0		533,97	
+Participant2	alphabetic	title-2	title 2 final	30101	184293	3	15733	197	80	7395	4	73	7328.0	10796.0	506,89	546,07
+Participant2	alphabetic	title-3	title 3 final	62451	311295	5	44796	196	229	6697	4	202	6648.0	11332.0	465,68	394,58
+Participant3	alphabetic	all-1	all 1 final	14483	129276	5	3642	214	17	216	2	14	167.0	527.0	426,42	498,57
+Participant3	alphabetic	all-2	all 2 final no pic	24650	153327	3	12687	211	60	0	2	53		209.0		511,5
+Participant3	alphabetic	all-2	all 2 final with pic	24650	153327	3	12898	211	61	0	2	54		476.0		424,19
+Participant3	alphabetic	all-3	all 3 final	108168	261595	7	73906	230	321	0	4	284	15733.0	954.0	418,05	353,92
+Participant3	alphabetic	title-1	title 1 final	9567	143760	6	2422	220	11	0	3	7	4849.0	343.0	470,2	522,1
+Participant3	alphabetic	title-2	title 2 final	17067	177977	3	7201	200	36	176	3	31	123.0	612.0	487,19	127,36
+Participant3	alphabetic	title-3	title 3 final	66551	195044	5	44330	227	195	0	2	173	14069.0		215,35	
+Participant4	alphabetic	all-1	all 1 final	4917	120083	5	1980	180	11	0	2	7	2439.0		483,48	
+Participant4	alphabetic	all-2	all 2 final no pic	28517	124999	3	19558	244	80	0	3	73	3528.0	143.0	507,14	470,06
+Participant4	alphabetic	all-2	all 2 final with pic	28517	124999	3	20482	241	85	0	3	77	3528.0	322.0	507,14	428,57
+Participant4	alphabetic	all-3	all 3 final	91451	229350	7	47560	186	256	0	3	147	6599.0	639.0	348,18	261,02
+Participant4	alphabetic	title-1	title 1 final	9367	110716	6	2741	249	11	0	2	8	6117.0	832.0	475,72	364,06
+Participant4	alphabetic	title-2	title 2 final	30450	153516	3	16723	246	68	0	5	59	4686.0	394.0	462,52	467,4
+Participant4	alphabetic	title-3	title 3 final	45384	183967	1	25874	237	109	6278	4	96	6245.0	7767.0	263,54	180,88
+Participant5	alphabetic	all-1	all 1 final	10033	172411	5	1716	143	12	190	4	7	152.0	507.0	164,2	597,48
+Participant5	alphabetic	all-2	all 2 final no pic	23767	182444	3	10501	191	55	8782	5	46	8752.0	11222.0	177,16	409,76
+Participant5	alphabetic	all-2	all 2 final with pic	23767	182444	3	12582	188	67	2388	3	60	2318.0	2675.0	471,19	303,72
+Participant5	alphabetic	all-3	all 3 final	165452	232562	7	122549	253	484	325	16	445	2596.0	493.0	372,24	108,64
+Participant5	alphabetic	title-1	title 1 final	16034	156377	6	4698	174	27	0	5	20	281.0	64.0	173,05	389,76
+Participant5	alphabetic	title-2	title 2 final	26350	206211	3	9172	213	43	200	4	38	7005.0	626.0	325,3	534,99
+Participant5	alphabetic	title-3	title 3 final	128635	398013	5	95303	266	358	0	17	318	503.0	1277.0	133,47	272,81
+Participant7	logographic	all-1	all 1 final	24317	94930	5	8280	224	37	0	7	30	1915.0	188.0	370,46	403,36
+Participant7	logographic	all-2	all 2 final no pic	35617	150030	3	17822	283	63	0	5	42	21078.0	577.0	383,26	488,3
+Participant7	logographic	all-2	all 2 final with pic	35617	150030	3	18728	280	67	0	5	44	21078.0	577.0	383,26	488,3
+Participant7	logographic	all-3	all 3 final	96235	262198	3	27322	192	142	0	6	39	6901.0		266,25	
+Participant7	logographic	title-1	title 1 final	7784	119247	6	3641	228	16	0	3	12	2432.0	397.0	488,94	438,32
+Participant7	logographic	title-2	title 2 final	23000	127030	3	10418	289	36	0	3	30	8925.0	230.0	459,98	508,33
+Participant7	logographic	title-3	title 3 final	76551	185647	5	48093	266	181	87	4	142				
+Participant6	alphabetic	all-1	all 1 final	11683	102172	F5	2868	239	12	0	2	10	8423.0	1225.0	394,53	135,11
+Participant6	alphabetic	all-2	all 2 final no pic	30934	122973	F3	19104	239	80	6249	2	76				
+Participant6	alphabetic	all-2	all 2 final with pic	30934	122973	F3	19574	236	83	17	3	77		470.0		459,83
+Participant6	alphabetic	all-3	all 3 final	68601	173540	7	46757	242	193	4	3	179	9944.0	681.0	248,67	446,37
+Participant6	alphabetic	title-1	title 1 final	9117	113856	6	2505	193	13	357	2	9		423.0		479,92
+Participant6	alphabetic	title-2	title 2 final	19634	153906	3	12793	256	50	0	2	45	4635.0	833.0	422,33	451,56
+Participant6	alphabetic	title-3	title 3 final	45934	242141	5	34239	250	137	0	3	128	5457.0	5945.0	281,91	291,01
+Participant8	logographic	all-1	all 1 final	14850	270391	5	2713	209	13	6	3	9	9706.0	12053.0	388,89	426,9
+Participant8	logographic	all-2	all 2 final no pic	66785	285241	1	31399	234	134	19965	7	108	19936.0	41052.0	97,94	427,86
+Participant8	logographic	all-2	all 2 final with pic	66785	285241	1	32861	230	143	0	8	114	2770.0	2984.0	255,56	285,53
+Participant8	logographic	all-3	all 3 final	171652	590729	7	107323	238	451	31	9	288	55775.0	55467.0	474,81	422,61
+Participant8	logographic	title-1	title 1 final	20017	250374	6	7508	250	30	14	5	21	2746.0	3017.0	53,24	312,21
+Participant8	logographic	title-2	title 2 final	76368	352026	3	38692	234	165	21	13	123	2037.0	2541.0	447,08	301,13
+Participant8	logographic	title-3	title 3 final	162335	428393	5	95041	222	429	0	11	283	13264.0	14082.0	173,83	263,08
+Participant11yuke		all-1	all 1 final	5834	130511	5	2202	138	16	0	2	9	2820.0		418,44	
+Participant11yuke		all-2	all 2 final no pic	32384	136344	3	19842	193	103	4905	1	76				
+Participant11yuke		all-2	all 2 final with pic	32384	136344	3	20176	192	105	0	2	76		164.0		342,47
+Participant11yuke		all-3	all 3 final	107585	197378	7	56907	183	311	0	7	212	3467.0	581.0	525,76	430,84
+Participant11yuke		title-1	title 1 final	8217	122294	6	2459	273	9	0	3	4		153.0		264,45
+Participant11yuke		title-2	title 2 final	28651	168728	3	17442	208	84	4	2	65	5576.0		468,61	
+Participant11yuke		title-3	title 3 final	92268	304963	5	60389	197	306	0	4	215	5240.0	264.0	447,58	410,08
+Participant9	alphabetic	all-1	all 1 final	20584	281317	5	7070	272	26	4108	3	23	4056.0	4671.0	364,27	505,76
+Participant9	alphabetic	all-2	all 2 final no pic	33800	352017	3	23015	247	93	4454	2	91	4393.0	33488.0	483,25	409,05
+Participant9	alphabetic	all-2	all 2 final with pic	33800	352017	3	23492	247	95	0	3	92	4393.0	197.0	483,25	499,24
+Participant9	alphabetic	all-3	all 3 final	144069	385818	7	97641	272	359	0	7	339	8328.0	172.0	378,69	544,38
+Participant9	alphabetic	title-1	title 1 final	8567	301900	6	2954	269	11	0	2	7	4768.0	221.0	498,73	461,25
+Participant9	alphabetic	title-2	title 2 final	41551	310467	3	21046	217	97	0	4	91	10782.0	338.0	405,58	440,01
+Participant9	alphabetic	title-3	title 3 final	99735	529886	5	72186	265	272	5683	7	247	5636.0	6849.0	413,48	382,42
+Participant10	alphabetic	all-1	all 1 final	4117	200485	5	1543	171	9	0	3	6	2362.0	501.0	424,65	391,92
+Participant10	alphabetic	all-2	all 2 final no pic	25534	223369	3	16998	215	79	0	5	71	4992.0	4379.0	588,07	402,52
+Participant10	alphabetic	all-2	all 2 final with pic	25534	223369	3	16998	215	79	0	5	71	4992.0	4379.0	588,07	402,52
+Participant10	alphabetic	all-3	all 3 final	63368	248903	7	45296	232	195	0	5	178	6827.0	7186.0	321,98	278,91
+Participant10	alphabetic	title-1	title 1 final	9183	191302	6	2834	218	13	0	4	8	5218.0	631.0	473,84	378,47
+Participant10	alphabetic	title-2	title 2 final	18767	204602	3	10296	229	45	0	4	40	5455.0	9467.0	481,02	386,89
+Participant10	alphabetic	title-3	title 3 final	35984	312270	5	28640	247	116	0	3	103	3378.0	575.0	309,56	371,76
+Participant12new	logographic	all-1	all 1 final	19684	103831	5	4965	216	23	23	6	9	11985.0	851.0	611,92	102,55
+Participant12new	logographic	all-2	all 2 final no pic	43684	149049	3	18030	169	107	0	5	36	4843.0	141.0	594,49	520,65
+Participant12new	logographic	all-2	all 2 final with pic	43684	149049	3	18030	169	107	0	5	36	4843.0	141.0	594,49	520,65
+Participant12new	logographic	all-3	all 3 final	258320	192733	3	69719	173	403	24	24	145	22710.0	225472.0	69,05	30,01
+Participant12new	logographic	title-1	title 1 final	5834	123515	6	1656	166	10	0	3	3	5697.0	204.0	626,87	120,35
+Participant12new	logographic	title-2	title 2 final	19700	129348	3	6371	182	35	0	5	14	19196.0	2991.0	776,61	735,59
+Participant12new	logographic	title-3	title 3 final	68868	451052	5	30989	179	173	0	5	73		61595.0		71,02
+Participant13	logographic	all-1	all 1 final	17684	125170	5	5553	198	28	9	4	21	6655.0	199.0	422,98	488,66
+Participant13	logographic	all-2	all 2 final no pic	48284	142853	3	28104	251	112	0	7	101	2315.0	145.0	531,49	401,26
+Participant13	logographic	all-2	all 2 final with pic	48284	142853	3	28532	248	115	0	6	105	2315.0	301.0	531,49	506,97
+Participant13	logographic	all-3	all 3 final	133502	234771	7	97536	296	329	134	9	285	2907.0	759.0	459,14	436,92
+Participant13	logographic	title-1	title 1 final	267	124903	Space	185	93	2	0	1	1				
+Participant13	logographic	title-2	title 2 final	43634	191137	3	24497	310	79	0	2	75	16449.0	185.0	382,2	539,36
+Participant13	logographic	title-3	title 3 final	53601	368273	5	38719	281	138	77	8	117	1052.0	392.0	414,22	462,64
+Participant14	alphabetic	all-1	all 1 final	6400	109356	5	1459	162	9	0	3	6	4104.0	307.0	385,58	502,44
+Participant14	alphabetic	all-2	all 2 final no pic	17300	136656	3	8511	185	46	65	4	38	6413.0	898.0	399,94	524,26
+Participant14	alphabetic	all-2	all 2 final with pic	17300	136656	3	8896	185	48	65	3	41	6413.0	898.0	399,94	524,26
+Participant14	alphabetic	all-3	all 3 final	70818	153956	3	35216	189	186	0	7	158	11219.0	547.0	103,67	391,78
+Participant14	alphabetic	title-1	title 1 final	12434	96922	6	3052	170	18	0	3	15	7841.0	153.0	441,62	242,31
+Participant14	alphabetic	title-2	title 2 final	20900	115756	3	11308	177	64	0	2	60	6363.0	272.0	493,27	467,76
+Participant14	alphabetic	title-3	title 3 final	66251	224774	5	41791	193	216	7575	7	184	7526.0	8504.0	321,42	453,94
+Participant15	alphabetic	all-1	all 1 final	4500	100368	5	1702	170	10	0	2	1				
+Participant15	alphabetic	all-2	all 2 final no pic	15034	118684	3	8612	210	41	2958	2	12				
+Participant15	alphabetic	all-2	all 2 final with pic	15034	118684	3	8889	212	42	0	3	12				
+Participant15	alphabetic	all-3	all 3 final	41551	189268	7	30337	221	137	0	2	65				
+Participant15	alphabetic	title-1	title 1 final	8783	91584	6	1951	195	10	5741	1	1				
+Participant15	alphabetic	title-2	title 2 final	13817	104867	3	4069	203	20	182	3	8				
+Participant15	alphabetic	title-3	title 3 final	55551	133718	5	30893	224	138	0	6	55				
+Participant16	alphabetic	all-1	all 1 final	3550	87563	5	1388	154	9	10	2	5	1906.0		511,5	
+Participant16	alphabetic	all-2	all 2 final no pic	22367	91113	3	15760	239	66	891	3	59	826.0	1073.0	448,65	356,9
+Participant16	alphabetic	all-2	all 2 final with pic	22367	91113	3	16185	238	68	96	3	61	826.0	256.0	448,65	435
+Participant16	alphabetic	all-3	all 3 final	54201	191831	7	42220	206	205	0	3	191	3723.0	52777.0	202	409,49
+Participant16	alphabetic	title-1	title 1 final	7383	80180	6	2737	152	18	0	3	14	7076.0	173.0	224,06	426,11
+Participant16	alphabetic	title-2	title 2 final	13367	113480	3	6524	261	25	4240	2	19	10738.0		419,53	
+Participant16	alphabetic	title-3	title 3 final	64984	126847	5	44831	228	197	0	5	180	5869.0	949.0	372,76	311,71
+Participant17	logographic	all-1	all 1 final	10283	243786	5	3763	209	18	0	3	14	3510.0	322.0	459,75	476,11
+Participant17	logographic	all-2	all 2 final no pic	27417	254069	3	14487	216	67	5686	2	60	5612.0	6126.0	573,94	564,31
+Participant17	logographic	all-2	all 2 final with pic	27417	254069	3	14487	216	67	5686	2	60	5612.0	6126.0	573,94	564,31
+Participant17	logographic	all-3	all 3 final	142335	297303	2	93591	233	402	1731	9	365	5338.0	2600.0	399,54	349
+Participant17	logographic	title-1	title 1 final	23017	220769	6	8943	229	39	0	8	31	2589.0	136.0	514,02	365,6
+Participant17	logographic	title-2	title 2 final	15817	281486	3	6888	255	27	5851	1	24	5771.0		538,15	
+Participant17	logographic	title-3	title 3 final	129452	439638	5	97011	227	428	0	9	382	866.0	428.0	555,5	432,31
+Participant18	alphabetic	all-1	all 1 final	6967	104133	5	3230	190	17	0	3	13	2190.0	316.0	400,23	358,11
+Participant18	alphabetic	all-2	all 2 final no pic	8883	111100	3	2723	209	13	4796	1	10	4723.0		447,19	
+Participant18	alphabetic	all-2	all 2 final with pic	8883	111100	3	3095	206	15	0	2	11	4723.0	421.0	447,19	388,49
+Participant18	alphabetic	all-3	all 3 final	40767	167417	7	30754	228	135	0	3	118	4016.0	342.0	221,58	335,64
+Participant18	alphabetic	title-1	title 1 final	8433	95700	6	3022	201	15	0	2	12	4711.0	428.0	416,54	420,73
+Participant18	alphabetic	title-2	title 2 final	12050	119983	3	6454	208	31	0	3	27	3542.0	167.0	449,74	532,83
+Participant18	alphabetic	title-3	title 3 final	35384	132033	5	20378	232	88	0	5	78	7652.0	868.0	315,07	370,25
+Participant19	alphabetic	all-1	all 1 final	11150	256052	5	3168	244	13	11	3	8	1031.0	837.0	313,96	407,66
+Participant19	alphabetic	all-2	all 2 final no pic	17834	285119	3	9823	196	50	5918	1	47				
+Participant19	alphabetic	all-2	all 2 final with pic	17834	285119	3	10184	192	53	197	2	48	145.0	508.0	441,22	405,69
+Participant19	alphabetic	all-3	all 3 final	70068	413754	7	47518	216	220	0	4	199	3749.0	204.0	348,55	530,02
+Participant19	alphabetic	title-1	title 1 final	33717	222335	1	10807	264	41	0	4	35	2751.0	679.0	337,36	446,16
+Participant19	alphabetic	title-2	title 2 final	17917	267202	3	8194	191	43	0	3	39	1150.0	196.0	292,42	317,57
+Participant19	alphabetic	title-3	title 3 final	110801	302953	5	78519	216	363	0	5	335	691.0	207.0	423,05	416,48
+Participant20	alphabetic	all-1	all 1 final	9950	167508	5	3472	193	18	0	2	15	5400.0	655.0	386,52	347,91
+Participant20	alphabetic	all-2	all 2 final no pic	17134	185675	3	5038	174	29	9600	3	21	9520.0	13604.0	417,98	257,09
+Participant20	alphabetic	all-2	all 2 final with pic	17134	185675	3	5631	166	34	494	3	26	6138.0	614.0	373,23	411,39
+Participant20	alphabetic	all-3	all 3 final	112835	211875	2	5898	131	45	577	4	11	7729.0	2298.0	280,22	332,16
+Participant20	alphabetic	title-1	title 1 final	8217	177458	6	1609	179	9	5555	1	7	5470.0		445,34	
+Participant20	alphabetic	title-2	title 2 final	9067	202809	3	3625	191	19	3354	2	14	3292.0	3708.0	381,61	394,94
+Participant20	alphabetic	title-3	title 3 final	85418	324710	5	120	120	1	313	1	0				
+Participant21	logographic	all-1	all 1 final	14600	271514	5	3120	184	17	0	3	12	11230.0	9804.0	530,6	413,43
+Participant21	logographic	all-2	all 2 final no pic	50017	294947	3	32300	267	121	0	5	103	7284.0	27075.0	564,62	361,02
+Participant21	logographic	all-2	all 2 final with pic	50017	294947	3	33334	262	127	0	4	106	6515.0	6947.0	421,98	327,69
+Participant21	logographic	all-3	all 3 final	161119	366215	3	97661	227	430	199	8	279	11419.0	11643.0	244,08	297,46
+Participant21	logographic	title-1	title 1 final	8833	286114	6	5148	224	23	162	2	12	5512.0		471,46	
+Participant21	logographic	title-2	title 2 final	21250	344965	3	11615	242	48	10	2	41				
+Participant21	logographic	title-3	title 3 final	108618	527334	5	77500	239	324	1635	6	237	21330.0	5723.0	120,35	282,12
+Participant22	alphabetic	all-1	all 1 final	10700	126316	5	5452	182	30	37	9	20	562.0	424.0	127,41	63,56
+Participant22	alphabetic	all-2	all 2 final no pic	15517	143316	3	10052	197	51	0	2	47		126.0		494,91
+Participant22	alphabetic	all-2	all 2 final with pic	15517	143316	3	10113	194	52	0	2	48				
+Participant22	alphabetic	all-3	all 3 final	22267	167750	7	12191	194	63	0	4	59	6551.0	485.0	212,24	390,19
+Participant22	alphabetic	title-1	title 1 final	6300	137016	6	2387	199	12	2237	3	9	2183.0	2649.0	410,42	467,71
+Participant22	alphabetic	title-2	title 2 final	8917	158833	3	5543	198	28	0	2	25	2778.0	284.0	527,38	408,49
+Participant22	alphabetic	title-3	title 3 final	49651	190017	5	34417	201	171	0	7	157	7008.0	130.0	329,34	519,04
+Participant23	logographic	all-1	all 1 final	18850	167195	5	7354	199	37	0	4	33	8202.0	411.0	407,74	544,39
+Participant23	logographic	all-2	all 2 final no pic	55434	186046	3	32330	236	137	11743	6	123	11698.0	11918.0	368,54	536,62
+Participant23	logographic	all-2	all 2 final with pic	55434	186046	3	35221	232	152	0	6	137	2392.0	397.0	280,49	423,94
+Participant23	logographic	all-3	all 3 final	271887	278397	5	208705	248	843	0	8	729	2079.0	593.0	483,25	295,63
+Participant23	logographic	title-1	title 1 final	29417	137778	6	7676	183	42	0	8	31	2030.0	584.0	356,31	481,65
+Participant23	logographic	title-2	title 2 final	36917	241480	3	19752	244	81	0	2	75		478.0		472,38
+Participant23	logographic	title-3	title 3 final	132885	550283	5	99042	239	415	18	5	339	1115.0	916.0	411,03	308,34
+Participant24 yaxuan	logographic	all-1	all 1 final	27734	168445	5	5785	187	31	0	8	12	9548.0	502.0	449,7	198,58
+Participant24 yaxuan	logographic	all-2	all 2 final no pic	53134	203929	3	28082	230	122	7657	6	86	33122.0	32709.0	319,67	193,83
+Participant24 yaxuan	logographic	all-2	all 2 final with pic	53134	203929	3	29373	228	129	5136	3	92	5082.0	5757.0	344,61	412,12
+Participant24 yaxuan	logographic	all-3	all 3 final	68867	325730	3	45916	228	201	10708	4	164	23301.0	23193.0	487,14	43,53
+Participant24 yaxuan	logographic	title-1	title 1 final	7750	196179	6	2477	191	13	0	4	7	2736.0	220.0	480,53	616,12
+Participant24 yaxuan	logographic	title-2	title 2 final	15417	257063	3	7624	206	37	4606	1	23				
+Participant24 yaxuan	logographic	title-3	title 3 final	53251	272480	5	28724	224	128	0	4	100	19373.0	679.0	50,8	441,1
