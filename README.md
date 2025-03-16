@@ -1,4 +1,3 @@
-```markdown
 # Eye-Tracking Study on Text Format Impact on Attention, Cognitive Load, and Task Performance in Website Design
 
 ## Overview
@@ -32,57 +31,45 @@ We used **Linear Mixed-Effects (LMM) models** to evaluate eye-tracking and behav
 - Required Python Libraries:
   ```bash
   pip install pandas numpy matplotlib seaborn statsmodels
-  ```
-
-### Clone the Repository
-```bash
-git clone https://github.com/AkiraWinds/Computational-Cognitive-Science-3-.git
-cd Computational-Cognitive-Science-3-
-```
 
 ## Usage
-1. **Run Data Processing & Analysis**  
-   Open the Jupyter notebook and execute the steps in `processing15.ipynb` to analyze the eye-tracking dataset.
 
-2. **Modify & Extend the Study**  
+1. **Run Data Processing & Analysis**
+   - Open `processing15.ipynb` in Jupyter Notebook.
+   - Execute the steps to analyze eye-tracking and behavioral data.
+
+2. **Modify & Extend the Study**
    - Update experimental data in `data/`
    - Adjust statistical analysis in `analysis/`
 
-3. **Visualize Results**  
-   Use the provided Python scripts to generate fixation maps and cognitive load analysis charts.
+3. **Visualize Results**
+   - Generate fixation maps and cognitive load analysis using provided scripts.
 
 ## Dataset
+
 The dataset consists of:
-- **Eye-tracking data**: Fixation points, saccades, and time-to-fixation values
-- **Task performance data**: User interaction logs, accuracy rates
-- **Post-task cognitive load responses**: NASA-TLX scores from participants
+- **Eye-tracking data**: Fixation points, saccades, time-to-fixation.
+- **Task performance data**: User interaction logs, accuracy rates.
+- **Cognitive load responses**: NASA-TLX questionnaire results.
 
 ## Methodology
-- **Experiment Setup**: Conducted with **23 participants** in a controlled lab environment.
-- **Eye-Tracking Hardware**: Tobii X120 with **calibrated AOIs (Areas of Interest)**.
-- **Task Complexity Levels**: Easy, Medium, Hard.
-- **Statistical Analysis**: LMM models were used to evaluate the impact of text formatting.
+
+- **Participants**: 23 individuals with varied linguistic backgrounds.
+- **Eye-Tracking Equipment**: Tobii X120 with **AOI-based** data collection.
+- **Task Levels**: Easy, Medium, Hard.
+- **Statistical Analysis**: Linear Mixed-Effects Model (LMM).
 
 ## Results
-- **Uppercase text captures attention better** in complex tasks but **increases cognitive load**.
-- **Title case improves task performance** and reduces errors across all difficulty levels.
-- **No significant effect of language background** on eye-tracking metrics.
 
-## Repository Structure
-```
-📦 Computational-Cognitive-Science-3-
- ┣ 📂 data/               # Raw and processed eye-tracking datasets
- ┣ 📂 analysis/           # Statistical models and analysis scripts
- ┣ 📂 results/            # Visualizations and output reports
- ┣ 📜 processing15.ipynb  # Jupyter Notebook for data analysis
- ┣ 📜 README.md           # Project documentation
- ┗ 📜 LICENSE             # Open-source license (if applicable)
-```
+- **Uppercase text captures attention more effectively** but **increases cognitive load**.
+- **Title case improves task performance** and **reduces errors**.
+- **No significant impact of language background** on eye-tracking metrics.
+
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ## Contributors
 - **Yan Zhang (ljv310)**
 - **Lingshan Lu (ptb818)**
-```
+
